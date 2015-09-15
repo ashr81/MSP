@@ -1,7 +1,0 @@
-
-#areas{ margin-bottom:2%; }
-
-.offer{ position: relative; width:98%; left:1%; height:10%; background-color: rgba(204,0,0,0.8); margin-top:1%; color:#fff;}
-	.brand{ position: relative; width:99%; left:1%; height:40%; display:table;} .brand span{ text-align: left; }
-	.product{ position: relative; width:90%; left:10%; height:30%; display:table; } .product span{ text-align: left;  }
-	.desc{ position: relative; width:99%; left:1%; height:30%; display:table; } .desc span{ text-align: left;  }
