@@ -1,0 +1,18 @@
+/* ------------ Develop By Anuj Harshe ------------ */
+
+
+.buttons{ position: relative; width:100%; height:10%; margin-top:10%;}
+#login{ position:absolute; width:50%; left:25%; display:table;}
+
+#menuimg{ position: relative; width:20%; left:40%; height:9%; }
+
+#upper{ position: absolute; width:98%; left:-100%; height:20%; bottom:22%; display:none; }
+#lower{ position:absolute; width:98%; left:100%; height:20%; bottom:1%;  display:none;}
+
+	.submenus{ position:absolute; width:33.33%; height:100%; }
+	.img{ position:relative; width:50%; left:25%; height:40%; top:20%;  }
+	.imgtitle{ position:absolute; width:100%; height:20%; bottom:0%; text-align: center;}
+	
+	#u1,#l1{ }
+	#u2,#l2{ left:33.33%; }
+	#u3,#l3{ right:0%; }
